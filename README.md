@@ -9,6 +9,15 @@ The goal of this project is to clean the data and extract meaningful business in
 
 ---
 
+## Dataset Used
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">Dataset</a>
+
+## SQL Server File
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
+
+## Screenshot
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">Screenshot</a>
+
 ## 🧹 Data Cleaning Process
 
 The dataset required several preprocessing steps before analysis:
