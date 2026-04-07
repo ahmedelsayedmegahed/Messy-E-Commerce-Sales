@@ -10,7 +10,7 @@ The goal of this project is to clean the data and extract meaningful business in
 ---
 
 ## Dataset Used
-- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql](https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/messy_ecommerce_sales_data.xlsx">Dataset</a>
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/messy_ecommerce_sales_data.xlsx">Dataset</a>
 
 ## SQL Server File
 - <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
