@@ -78,7 +78,7 @@ Messy-Ecommerce-Sales
 
 ## 📷 Dashboard Interaction
 
-<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Screenshot%202026-04-07%20085838.png">Screenshot</a>
+<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Screenshot</a>
 
 ---
 
