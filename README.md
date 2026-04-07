@@ -15,8 +15,7 @@ The goal of this project is to clean the data and extract meaningful business in
 ## SQL Server File
 - <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
 
-## Screenshot
-- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">Screenshot</a>
+---
 
 ## 🧹 Data Cleaning Process
 
@@ -63,13 +62,13 @@ The following questions were explored during the analysis:
 ```
 Messy-Ecommerce-Sales
 │
-├── dataset/
-│   └── messy_ecommerce_sales.csv
+├── Dataset/
+│   └── messy_ecommerce_sales_data.xlsx
 │
-├── sql/
-│   └── analysis_queries.sql
+├── SQL/
+│   └── Messy E-commerce.sql
 │
-├── screenshots/
+├── Screenshots/
 │   └── results.png
 │
 └── README.md
@@ -77,9 +76,9 @@ Messy-Ecommerce-Sales
 
 ---
 
-## 📷 Sample Output
+## 📷 Dashboard Interaction
 
-(Add screenshots of your SQL query results here)
+<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Screenshot%202026-04-07%20085838.png">Screenshot</a>
 
 ---
 
