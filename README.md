@@ -40,24 +40,58 @@ The dataset required several preprocessing steps before analysis:
 
 ---
 
-## 📊 Key Business Questions
+📊 Key Business Insights
 
-The following questions were explored during the analysis:
+The following insights were derived from the analysis and visualized in the dashboard:
 
-* What is the total revenue over time?
-* Who are the top customers by purchase value?
-* What are the best-selling products?
-* Which countries generate the most sales?
-* What are the monthly sales trends?
+## 💰 Revenue & Sales Performance
+
+* Total revenue reached $166K+, showing strong overall business performance
+Revenue experienced significant growth over time, especially between 2024 and 2025
+Average sales per order reached approximately 3.6K, indicating high-value transactions
 
 ---
 
-## 📈 Key Insights
+## 👥 Customer & Engagement Insights
 
-* Identified top-performing products and categories
-* Found the most valuable customers
-* Discovered sales trends across different time periods
-* Highlighted data quality issues and how they impact analysis
+* The customer base consists of around 98 users, with 97 active customers, showing high engagement levels
+Most customers are actively contributing to total revenue, indicating a strong retention rate
+
+---
+
+## 🛒 Product & Category Performance
+
+* Electronics is the top-performing category, generating the highest revenue by a large margin
+Other categories like Books, Clothing, and Home contribute moderately to overall sales
+Certain products significantly outperform others, highlighting key revenue drivers
+
+---
+
+## 💳 Payment Behavior Analysis
+
+* Cash on Delivery is the dominant payment method, contributing the majority of revenue
+Digital payment methods such as Bank Transfer, PayPal, and Credit Card have lower but consistent usage
+
+---
+
+## 📦 Order Status Analysis
+
+* Orders are distributed across multiple statuses including Delivered, Processing, Shipped, Cancelled, and Returned
+A noticeable portion of orders are either cancelled or returned, which may indicate potential operational improvements
+
+---
+
+## 📈 Growth Trends
+
+* The business shows clear year-over-year growth, with a sharp increase in 2025
+Annual growth analysis highlights a major spike in revenue compared to previous years
+
+---
+
+## 🔄 Transaction Flow
+
+* Transaction flow varies across payment methods, with Cash on Delivery leading significantly
+A drop is observed in credit card transactions compared to other methods
 
 ---
 
