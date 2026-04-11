@@ -15,6 +15,9 @@ The goal of this project is to clean the data and extract meaningful business in
 ## SQL Server File
 - <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
 
+## Power BI File
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">Power BI File</a>
+
 ---
 
 ## 🧹 Data Cleaning Process
@@ -33,6 +36,7 @@ The dataset required several preprocessing steps before analysis:
 
 * SQL Server
 * Excel (for initial data inspection)
+* Power BI
 
 ---
 
@@ -68,8 +72,12 @@ Messy-Ecommerce-Sales
 ├── SQL/
 │   └── Messy E-commerce.sql
 │
+│   Power BI/
+│   └── steam_dashboard.pbix
+│
 ├── Screenshots/
 │   └── results.png
+│   └── Power BI Result.png
 │
 └── README.md
 ```
@@ -78,7 +86,8 @@ Messy-Ecommerce-Sales
 
 ## 📷 Dashboard Interaction
 
-<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Screenshot</a>
+<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Excel Screenshot</a>
+<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Power BI Screenshot</a>
 
 ---
 
