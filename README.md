@@ -13,10 +13,10 @@ The goal of this project is to clean the data and extract meaningful business in
 - <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/messy_ecommerce_sales_data.xlsx">Dataset</a>
 
 ## SQL Server File
-- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server</a>
 
 ## Power BI File
-- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Power%20BI%20Result.png">Power BI File</a>
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/messy%20ecommerce%20sales%20data.pbix">Power BI</a>
 
 ---
 
@@ -73,7 +73,7 @@ Messy-Ecommerce-Sales
 │   └── Messy E-commerce.sql
 │
 │   Power BI/
-│   └── steam_dashboard.pbix
+│   └── messy ecommerce sales data.pbix
 │
 ├── Screenshots/
 │   └── results.png
