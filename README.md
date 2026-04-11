@@ -16,7 +16,7 @@ The goal of this project is to clean the data and extract meaningful business in
 - <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">SQL Server File</a>
 
 ## Power BI File
-- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Messy%20E-commerce.sql">Power BI File</a>
+- <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Power%20BI%20Result.png">Power BI File</a>
 
 ---
 
