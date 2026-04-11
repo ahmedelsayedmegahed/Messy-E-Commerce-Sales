@@ -87,7 +87,10 @@ Messy-Ecommerce-Sales
 ## 📷 Dashboard Interaction
 
 <a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Excel Screenshot</a>
-<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/results.png">Power BI Screenshot</a>
+
+---
+
+<a href="https://github.com/ahmedelsayedmegahed/Messy-E-Commerce-Sales/blob/main/Power%20BI%20Result.png">Power BI Screenshot</a>
 
 ---
 
